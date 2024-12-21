@@ -1,4 +1,4 @@
-# *Trendyol Web Scraper
+# *Trendyol Web Scraper*
 
 ## *Overview*  
 This Python script tracks product prices on Trendyol, logs data into a CSV file, and sends an email notification when the price drops below a specified threshold.
